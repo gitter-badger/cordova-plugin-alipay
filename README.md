@@ -1,4 +1,6 @@
 # cordova-plugin-alipay
+
+[![Join the chat at https://gitter.im/phc1212/cordova-plugin-alipay](https://badges.gitter.im/phc1212/cordova-plugin-alipay.svg)](https://gitter.im/phc1212/cordova-plugin-alipay?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   支付宝cordova插件
 
 ## 协作开发
